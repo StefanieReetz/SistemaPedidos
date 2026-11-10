@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2026/11/06 09:34:53.000.477,=C:\Users\stefa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/11/06 10:10:21.000.828,C:\Users\stefa\Documents\Embarcadero\Studio\Projects\Principal.dfm=C:\Users\stefa\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2026/11/06 10:10:21.000.828,C:\Users\stefa\Documents\Embarcadero\Studio\Projects\Principal.pas=C:\Users\stefa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/11/06 10:11:51.000.522,C:\Users\stefa\Documents\Embarcadero\Studio\Projects\CursoDelphi.dproj=C:\Users\stefa\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2026/11/07 15:58:38.000.426,=C:\Users\stefa\OneDrive\Documentos\Embarcadero\Studio\Projects\Curso Delphi\Unit1.pas</Transaction>
+    <Transaction>2026/11/07 15:59:08.000.872,C:\Users\stefa\OneDrive\Documentos\Embarcadero\Studio\Projects\Curso Delphi\Unit1.pas=C:\Users\stefa\OneDrive\Documentos\Embarcadero\Studio\Projects\Curso Delphi\Somas.pas</Transaction>
+  </Transactions>
+</BorlandProject>
